@@ -40,7 +40,7 @@ mirrors `keymap[]` in `src/main.cpp`; "—" means not mapped (ignored).
 | 54.1  | COS            | —           |
 | 55.1  | TAN            | —           |
 | 61.1  | EEX            | `e`         |
-| 62.1  | +/-            | —           |
+| 62.1  | +/-            | `-`         |
 | 63.1  | X              | `x`         |
 | 64.1  | 1/X            | —           |
 | 65.1  | ÷              | `/`         |
